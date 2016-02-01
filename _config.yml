@@ -1,0 +1,28 @@
+name: Chapman Test
+favicon: null
+layout_spectrum: 0.45016105682589114
+typography_spectrum: 0.6649586360435933
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7113521795254201
+  lightness: 0.674577709287405
+  saturation: 0.7220336745958775
+  rhythmicContrast: 0.8539602996315807
+purpose: []
